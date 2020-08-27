@@ -6,5 +6,4 @@ Github clone with dark mode, made from Rocketseat's "UI Clone", with the challen
 
 - ⚛ **React**
 - 💅 **CSS** — w/ styled-components
-- 💖 **Lint** — ESlint/Prettier/Editor Config
 - ⚡ **SWR**
